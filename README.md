@@ -26,7 +26,7 @@ Python version: 3.10+
 
 Streamlining Japanese-English Translation with Advanced Preprocessing and Integrated Translation Technologies.
 
-Preprocessor and Translation logic is sourced from external packages, which I also designed, see [Kairyou](https://github.com/Bikatr7/Kairyou) and [EasyTL](https://github.com/Bikatr7/easytl) for more information.
+Preprocessor and Translation logic is sourced from external packages, which I also designed, see [Kairyou](https://github.com/ktbilyeu/Kairyou) and [EasyTL](https://github.com/ktbilyeu/easytl) for more information.
 
 Kudasai is proud to have been a Backdrop Build v3 Finalist:
 https://backdropbuild.com/builds/v3/kudasai
@@ -310,9 +310,9 @@ Please note that this information is a brief summary of the GPL. For a detailed 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## **Contact**<a name="contact"></a>
 
-If you have any questions, comments, or concerns, please feel free to contact me at [Bikatr7@proton.me](mailto:Bikatr7@proton.me)
+If you have any questions, comments, or concerns, please feel free to contact me at [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)
 
-For any bugs or suggestions please use the issues tab [here](https://github.com/Bikatr7/Kudasai/issues).
+For any bugs or suggestions please use the issues tab [here](https://github.com/ktbilyeu/Kudasai/issues).
 
 I actively encourage and welcome any feedback on this project.
 
