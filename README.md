@@ -19,13 +19,13 @@
 
 Windows 10 and Linux Mint are the only tested operating systems, feel free to test on other operating systems and report back to me. I will do my best to fix any issues that arise.
 
-To see the README for the Hugging Face hosted version of Kudasai, please see [here](https://huggingface.co/spaces/Bikatr7/Kudasai/blob/main/README.md). Further WebGUI documentation can be found there as well.
+To see the README for the Hugging Face hosted version of Kudasai, please see [here](https://huggingface.co/spaces/ktbilyeu/Kudasai/blob/main/README.md). Further WebGUI documentation can be found there as well.
 
 Python version: 3.10+
 
 Streamlining Japanese-English Translation with Advanced Preprocessing and Integrated Translation Technologies.
 
-Preprocessor and Translation logic is sourced from external packages, which I also designed, see [Kairyou](https://github.com/Bikatr7/Kairyou) and [EasyTL](https://github.com/Bikatr7/easytl) for more information.
+Preprocessor and Translation logic is sourced from external packages, which I also designed, see [Kairyou](https://github.com/ktbilyeu/Kairyou) and [EasyTL](https://github.com/ktbilyeu/easytl) for more information.
 
 Kudasai has a public trello board, you can find it [here](https://trello.com/b/Wsuwr24S/kudasai) to see planned features and progress.
 
@@ -277,7 +277,7 @@ To run the Web GUI, simply run webgui.py which is in the same directory as kudas
 
 Below are some images of the Web GUI.
 
-Detailed Documentation for this can be found on the Hugging Face hosted version of Kudasai [here](https://huggingface.co/spaces/Bikatr7/Kudasai/blob/main/README.md).
+Detailed Documentation for this can be found on the Hugging Face hosted version of Kudasai [here](https://huggingface.co/spaces/ktbilyeu/Kudasai/blob/main/README.md).
 
 Indexing | Kairyou:
 ![Indexing Screen | Kairyou](https://i.imgur.com/0a2mzOI.png)
@@ -301,11 +301,11 @@ Logging:
 
 **Hugging Face**<a name="huggingface"></a>
 
-For those who are interested, or simply cannot run Kudasai locally, a instance of Kudasai's WebGUI is hosted on Hugging Face's servers. You can find it [here](https://huggingface.co/spaces/Bikatr7/Kudasai).
+For those who are interested, or simply cannot run Kudasai locally, a instance of Kudasai's WebGUI is hosted on Hugging Face's servers. You can find it [here](https://huggingface.co/spaces/ktbilyeu/Kudasai).
 
 It's a bit slower than running it locally, but it's a good alternative for those who cannot run it locally. The webgui on huggingface does not save anything through runs, so you will need to download the output files or copy the text out of the webgui. API keys are not saved, and the output folder is overwritten every time you run it. Archives deleted every run as well.
 
-To see the README for the Hugging Face hosted version of Kudasai, please see [here](https://huggingface.co/spaces/Bikatr7/Kudasai/blob/main/README.md).
+To see the README for the Hugging Face hosted version of Kudasai, please see [here](https://huggingface.co/spaces/ktbilyeu/Kudasai/blob/main/README.md).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **License**<a name="license"></a>
@@ -319,9 +319,9 @@ Please note that this information is a brief summary of the GPL. For a detailed 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **Contact**<a name="contact"></a>
 
-If you have any questions, comments, or concerns, please feel free to contact me at [Bikatr7@proton.me](mailto:Bikatr7@proton.me)
+If you have any questions, comments, or concerns, please feel free to contact me at [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)
 
-For any bugs or suggestions please use the issues tab [here](https://github.com/Bikatr7/Kudasai/issues).
+For any bugs or suggestions please use the issues tab [here](https://github.com/ktbilyeu/Kudasai/issues).
 
 Once again, I actively encourage and welcome any feedback on this project.
 

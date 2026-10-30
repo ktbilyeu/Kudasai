@@ -733,7 +733,7 @@ class KudasaiGUI:
                 Kudasai.connection, update_prompt = Toolkit.check_update(do_pause=False)
 
                 if(update_prompt != ""):
-                    gr.Info("Update available, see https://github.com/Bikatr7/Kudasai/releases/latest/ for more information.")
+                    gr.Info("Update available, see https://github.com/ktbilyeu/Kudasai/releases/latest/ for more information.")
 
                 if(Kudasai.connection == False):
                     gr.Warning("No internet connection, Auto-MTL features disabled (Indexing and Preprocessing still functional). Please reload the page when you have an internet connection.")
@@ -856,7 +856,7 @@ class KudasaiGUI:
 
                     except InvalidReplacementJsonKeys:
                         ## link needs to be updated later
-                        raise gr.Error("Invalid JSON file, please ensure that the JSON file contains the correct keys See: https://github.com/Bikatr7/Kairyou?tab=readme-ov-file#usage")
+                        raise gr.Error("Invalid JSON file, please ensure that the JSON file contains the correct keys See: https://github.com/ktbilyeu/Kairyou?tab=readme-ov-file#usage")
 
                     timestamp = Toolkit.get_timestamp(is_archival=True)
 
